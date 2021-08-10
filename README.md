@@ -7,18 +7,21 @@
 :outbox_tray: 2021 Goals: create new projects nd find my first job
 
 ## About me
-<a href="https://github.com/johnatas-henrique" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/johnatashenrique/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-rocha-developer/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<a href="https://github.com/ViniciusAlvesRocha" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/rochavini1/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/viniciusalvesdarochatop" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+
+<br />
+<br />
 
 :rocket: Languages, frameworks and tools
 
