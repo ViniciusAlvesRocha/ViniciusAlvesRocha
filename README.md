@@ -7,10 +7,18 @@
 :outbox_tray: 2021 Goals: create new projects nd find my first job
 
 ## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/ViniciusAlvesRocha)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/vinicius-rocha-developer/)
+<a href="https://github.com/johnatas-henrique" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/johnatashenrique/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
 :rocket: Languages, frameworks and tools
 
