@@ -1,10 +1,10 @@
 # Welcome!
 
 ## I'm Vinicius Rocha
-:computer: I'm Front-End Developer!
-:house_with_garden: I’m from Brazil.
-:books: I’m currently learning in Trybe. <img src="https://global-uploads.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" style="float: left"/>
-:outbox_tray: 2021 Goals: create new projects nd find my first job
+- :computer: I'm Front-End Developer!
+- :house_with_garden: I’m from Brazil.
+- :books: I’m currently learning in Trybe. <img src="https://global-uploads.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" style="float: left"/>
+- :outbox_tray: 2021 Goals: create new projects nd find my first job
 
 ## About me
 <a href="https://www.linkedin.com/in/vinicius-rocha-developer/" target="_blank">
