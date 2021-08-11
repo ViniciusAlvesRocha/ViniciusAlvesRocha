@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 
-##Projetos
+## Projetos
 
 - Construí um jogo utilizando a Unity Engine com JavaScript e postei na PlayStory:
 <br />
@@ -39,7 +39,8 @@ Esse jogo foi o primeiro da minha produtora da jogos fundada em 2018. A produtor
 Código: https://github.com/ViniciusAlvesRocha/easy-bank-landing-page-master
 GitHub Pages: https://viniciusalvesrocha.github.io/easy-bank-landing-page-master/build/
 
-- Desafio de um projeto fornecido pela (Frontend Mentor)[www.frontendmentor.io] em que eu fiz uma landing page de uma Agência especializada em Realidade Virtual utilizando ReactJS, HTML, CSS;
+- Desafio de um projeto fornecido pela (Frontend Mentor)(www.frontendmentor.io) em que eu fiz uma landing page de uma Agência especializada em Realidade Virtual utilizando ReactJS, HTML, CSS;
+![Preview Loopstudio](https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main/blob/master/src/images/loopstudio.png)
 Código: https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main
 GitHub Pages: https://viniciusalvesrocha.github.io/loopstudios-landing-page-main/build/
 
