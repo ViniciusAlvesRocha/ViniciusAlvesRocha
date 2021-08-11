@@ -30,4 +30,5 @@
 ##Projects
 
 - Construí um jogo utilizando a Unity Engine com JavaScript e postei na PlayStory:
-<img src="https://play-lh.googleusercontent.com/wAW-FRArW7pwufbrAiJ1252n1tbmdMo-Zs0Z4aHHB91KJWgZ36LUJYht76lhNPjSSEuY=s180-rw" alt="image of game created by me" />
+<a href="https://play.google.com/store/apps/details?id=com.TudinhoQueSou.PenguinRunner"><img src="https://play-lh.googleusercontent.com/wAW-FRArW7pwufbrAiJ1252n1tbmdMo-Zs0Z4aHHB91KJWgZ36LUJYht76lhNPjSSEuY=s180-rw" alt="image of game created by me" /></a>
+Esse jogo foi o primeiro da minha produtora da jogos fundada em 2018. A produtora se chamava TudinhoQueSou.
