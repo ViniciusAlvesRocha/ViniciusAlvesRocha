@@ -29,20 +29,31 @@
 
 ## Projetos
 
+### Penguin Runner
 - Construí um jogo utilizando a Unity Engine com JavaScript e postei na PlayStory:
 <br />
 <a href="https://play.google.com/store/apps/details?id=com.TudinhoQueSou.PenguinRunner"><img src="https://play-lh.googleusercontent.com/wAW-FRArW7pwufbrAiJ1252n1tbmdMo-Zs0Z4aHHB91KJWgZ36LUJYht76lhNPjSSEuY=s180-rw" alt="image of game created by me" /></a>
 <br />
 Esse jogo foi o primeiro da minha produtora da jogos fundada em 2018. A produtora se chamava TudinhoQueSou.
 
-- Criei uma landinpage de um banco fornecido como desafio pela [Frontend Mentor](www.frontendmentor.io) utilizando ReactJS, CSS, HTML e responsividade;
+### Easy Banck
+- Criei uma landinpage de um banco fornecido como desafio pela [Frontend Mentor](www.frontendmentor.io) utilizando ReactJS, CSS, HTML e responsividade:
+
+![Preview Easy Banck Landing Page](https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1583427798%2FChallenges%2Feo0otvv6dh4xxdzw5sxv.jpg&w=828&q=75)
+
 Código: https://github.com/ViniciusAlvesRocha/easy-bank-landing-page-master
+
 GitHub Pages: https://viniciusalvesrocha.github.io/easy-bank-landing-page-master/build/
 
+
 - Desafio de um projeto fornecido pela (Frontend Mentor)(www.frontendmentor.io) em que eu fiz uma landing page de uma Agência especializada em Realidade Virtual utilizando ReactJS, HTML, CSS;
+
 ![Preview Loopstudio](https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main/blob/master/src/images/loopstudio.png)
+
 Código: https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main
+
 GitHub Pages: https://viniciusalvesrocha.github.io/loopstudios-landing-page-main/build/
+
 
 - Desafio fornecido pela [Frontend Mentor](www.frontendmentor.io) em que eu crieu uma página institucional de uma crech utilizando HTML e CSS;
 Código: https://github.com/ViniciusAlvesRocha/sunny-side-agency-landing-page-main
