@@ -64,13 +64,16 @@ GitHub Pages: https://viniciusalvesrocha.github.io/sunny-side-agency-landing-pag
 ![Preview Rock, Paper, Scissor Game](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zwm6jyfx78nqql3cy8ra.jpg)
 
 - Esse projeto foi construído por causa de um amigo da Trybe que disse que para utilizar todo o poder do React, eu deveria escolher aplicações que trabalhassem mais o gerenciamento de estados do React. Ele me disse que seria uma boa alternativa de projetos a criação de jogos. Esse colega então viu o projeto Rock, Papar Scissor Game fornecido pela [FrontentMentor](https://www.frontendmentor.io/solutions) e disse que seria uma boa ideia de fazê-lo.
+
 Código: https://github.com/ViniciusAlvesRocha/rock-paper-scissor-game
+
 GitHub Pages: https://viniciusalvesrocha.github.io/rock-paper-scissor-game/#/ (para uma melhor esperiência, é muito legal jogar no mobile)
 
 ### Minha página de portfólio
 
--Esse projeto pela necessidade de apresentar o meu trabalho para realização de trabalhos de freelancer, para que as pessoas conheçam o meu trabalho. A Trybe também foi uma das que recomendou a criação de uma página pessoal de apresentação pessoal.
+- Esse projeto pela necessidade de apresentar o meu trabalho para realização de trabalhos de freelancer, para que as pessoas conheçam o meu trabalho. A Trybe também foi uma das que recomendou a criação de uma página pessoal de apresentação pessoal.
 Obs.: Esse porjeto não utiliza a biblioteca ReactJS, mas HTML, CSS e VanillaJS:
 
 GitHubPages: https://viniciusalvesrocha.github.io/portfolio/
+
 Código: https://github.com/ViniciusAlvesRocha/portfolio
