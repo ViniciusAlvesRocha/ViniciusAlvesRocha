@@ -45,7 +45,7 @@ Código: https://github.com/ViniciusAlvesRocha/easy-bank-landing-page-master
 
 GitHub Pages: https://viniciusalvesrocha.github.io/easy-bank-landing-page-master/build/
 
-
+### Loopstudios
 - Desafio de um projeto fornecido pela (Frontend Mentor)(www.frontendmentor.io) em que eu fiz uma landing page de uma Agência especializada em Realidade Virtual utilizando ReactJS, HTML, CSS;
 
 ![Preview Loopstudio](https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main/blob/master/src/images/loopstudio.png)
@@ -58,3 +58,17 @@ GitHub Pages: https://viniciusalvesrocha.github.io/loopstudios-landing-page-main
 - Desafio fornecido pela [Frontend Mentor](www.frontendmentor.io) em que eu crieu uma página institucional de uma crech utilizando HTML e CSS;
 Código: https://github.com/ViniciusAlvesRocha/sunny-side-agency-landing-page-main
 GitHub Pages: https://viniciusalvesrocha.github.io/sunny-side-agency-landing-page-main/build/
+
+### Rock Paper Scissor Game
+
+- Esse projeto foi construído por causa de um amigo da Trybe que disse que para utilizar todo o poder do React, eu deveria escolher aplicações que trabalhassem mais o gerenciamento de estados do React. Ele me disse que seria uma boa alternativa de projetos a criação de jogos. Esse colega então viu o projeto Rock, Papar Scissor Game fornecido pela [FrontentMentor](https://www.frontendmentor.io/solutions) e disse que seria uma boa ideia de fazê-lo.
+Código: https://github.com/ViniciusAlvesRocha/rock-paper-scissor-game
+GitHub Pages: https://viniciusalvesrocha.github.io/rock-paper-scissor-game/#/ (para uma melhor esperiência, é muito legal jogar no mobile)
+
+### Minha página de portfólio
+
+-Esse projeto pela necessidade de apresentar o meu trabalho para realização de trabalhos de freelancer, para que as pessoas conheçam o meu trabalho. A Trybe também foi uma das que recomendou a criação de uma página pessoal de apresentação pessoal.
+Obs.: Esse porjeto não utiliza a biblioteca ReactJS, mas HTML, CSS e VanillaJS:
+
+GitHubPages: https://viniciusalvesrocha.github.io/portfolio/
+Código: https://github.com/ViniciusAlvesRocha/portfolio
