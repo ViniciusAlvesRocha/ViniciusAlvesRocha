@@ -29,13 +29,6 @@
 
 ## Projetos
 
-### Penguin Runner
-- Construí um jogo utilizando a Unity Engine com JavaScript e postei na PlayStory:
-<br />
-<a href="https://play.google.com/store/apps/details?id=com.TudinhoQueSou.PenguinRunner"><img src="https://play-lh.googleusercontent.com/wAW-FRArW7pwufbrAiJ1252n1tbmdMo-Zs0Z4aHHB91KJWgZ36LUJYht76lhNPjSSEuY=s180-rw" alt="image of game created by me" /></a>
-<br />
-Esse jogo foi o primeiro da minha produtora da jogos fundada em 2018. A produtora se chamava TudinhoQueSou.
-
 ### Easy Banck
 - Criei uma landinpage de um banco fornecido como desafio pela [Frontend Mentor](www.frontendmentor.io) utilizando ReactJS, CSS, HTML e responsividade:
 
