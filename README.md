@@ -65,6 +65,36 @@ Código: https://github.com/ViniciusAlvesRocha/rock-paper-scissor-game
 
 GitHub Pages: https://viniciusalvesrocha.github.io/rock-paper-scissor-game/#/ (para uma melhor esperiência, é muito legal jogar no mobile)
 
+### Jovens de Negócio
+- Criei uma landinpage para o Breno Perrucho do canal do YouTube Nerds de Negócios:
+![Preview Jovens de Negócios Page](https://raw.githubusercontent.com/ViniciusAlvesRocha/files/master/jovens_negocios_market_background.png)
+
+Código: https://github.com/ViniciusAlvesRocha/jovens-de-negocios
+
+GitHub Pages: https://viniciusalvesrocha.github.io/jovens-de-negocios/build/
+
+### Alef Miranda
+- Criei uma landinpage para o Alef Miranda:
+![Preview Jovens de Negócios Page](https://raw.githubusercontent.com/ViniciusAlvesRocha/files/master/preview-alef-miranda.png)
+
+Código: https://github.com/ViniciusAlvesRocha/alef-miranda
+
+GitHub Pages: https://viniciusalvesrocha.github.io/alef-miranda/dist/
+
+### Loopstudios
+- Desafio de um projeto fornecido pela (Frontend Mentor)(www.frontendmentor.io) em que eu fiz uma landing page de uma Agência especializada em Realidade Virtual utilizando ReactJS, HTML, CSS;
+
+![Preview Loopstudio](https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main/blob/master/src/images/loopstudio.png)
+
+Código: https://github.com/ViniciusAlvesRocha/loopstudios-landing-page-main
+
+GitHub Pages: https://viniciusalvesrocha.github.io/loopstudios-landing-page-main/build/
+
+
+- Desafio fornecido pela [Frontend Mentor](www.frontendmentor.io) em que eu crieu uma página institucional de uma crech utilizando HTML e CSS;
+Código: https://github.com/ViniciusAlvesRocha/sunny-side-agency-landing-page-main
+GitHub Pages: https://viniciusalvesrocha.github.io/sunny-side-agency-landing-page-main/build/
+
 ### Minha página de portfólio
 
 - Esse projeto pela necessidade de apresentar o meu trabalho para realização de trabalhos de freelancer, para que as pessoas conheçam o meu trabalho. A Trybe também foi uma das que recomendou a criação de uma página pessoal de apresentação pessoal.
